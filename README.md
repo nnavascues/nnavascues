@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on @CodigoDelSur, Uruguay.
+- 🔭 I’m currently working at @CodigoDelSur, Uruguay.
 - 📖 I'm studying Computer Engineering at Fing - UdelaR.
 
 ## Tech stack
